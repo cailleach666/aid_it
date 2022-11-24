@@ -233,6 +233,12 @@ nav-left ul li img{
     font-weight: 500;
     color: #626262;
 }
+.online-list a{
+    margin-bottom: -5px;
+    font-weight: 500;
+    color: #626262;
+    text-decoration: none
+}
 .user-profile small{
     font-size: 12px;
 }
